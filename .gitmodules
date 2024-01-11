@@ -1,3 +1,4 @@
 [submodule "ops-scripts/zabbix/zabbix-weixin-picture"]
 	path = ops-scripts/zabbix/zabbix-weixin-picture
 	url = https://github.com/bluetom520/zabbix-weixin-picture.git
+8
